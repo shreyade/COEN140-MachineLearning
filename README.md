@@ -10,7 +10,7 @@ Lab 6: Implement Cross-Validation and Gradient Descent.
 
 Lab 7: Implement Logistic Regression to do spam classification.
 
-Lab 8: Implement K-Means Clustering.
+Lab 8: Implement K-Means Clustering. 
 
 Lab 9: Implement Principal Component Analysis (PCA) and plot the images in dataset to 2 & 3 dimensional spaces.
 
